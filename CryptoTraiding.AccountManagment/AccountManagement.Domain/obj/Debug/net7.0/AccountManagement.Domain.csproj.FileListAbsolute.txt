@@ -1,0 +1,15 @@
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.AccountManagment\AccountManagement.Domain\bin\Debug\net7.0\AccountManagement.Domain.deps.json
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.AccountManagment\AccountManagement.Domain\bin\Debug\net7.0\AccountManagement.Domain.dll
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.AccountManagment\AccountManagement.Domain\bin\Debug\net7.0\AccountManagement.Domain.pdb
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.AccountManagment\AccountManagement.Domain\bin\Debug\net7.0\AccountManagement.Infrastructure.dll
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.AccountManagment\AccountManagement.Domain\bin\Debug\net7.0\AccountManagement.Infrastructure.pdb
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.AccountManagment\AccountManagement.Domain\obj\Debug\net7.0\AccountManagement.Domain.csproj.AssemblyReference.cache
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.AccountManagment\AccountManagement.Domain\obj\Debug\net7.0\AccountManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.AccountManagment\AccountManagement.Domain\obj\Debug\net7.0\AccountManagement.Domain.AssemblyInfoInputs.cache
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.AccountManagment\AccountManagement.Domain\obj\Debug\net7.0\AccountManagement.Domain.AssemblyInfo.cs
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.AccountManagment\AccountManagement.Domain\obj\Debug\net7.0\AccountManagement.Domain.csproj.CoreCompileInputs.cache
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.AccountManagment\AccountManagement.Domain\obj\Debug\net7.0\AccountManagement.Domain.csproj.CopyComplete
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.AccountManagment\AccountManagement.Domain\obj\Debug\net7.0\AccountManagement.Domain.dll
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.AccountManagment\AccountManagement.Domain\obj\Debug\net7.0\refint\AccountManagement.Domain.dll
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.AccountManagment\AccountManagement.Domain\obj\Debug\net7.0\AccountManagement.Domain.pdb
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.AccountManagment\AccountManagement.Domain\obj\Debug\net7.0\ref\AccountManagement.Domain.dll

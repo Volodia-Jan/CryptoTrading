@@ -1,0 +1,3 @@
+
+€csharpsquid:S101"eRename class 'WalletAccountDTO' to match pascal case naming rules, consider using 'WalletAccountDto'.(ŠæëB
+^csharpsquid:S2094"BRemove this empty class, write its code or make it an "interface".(ŠæëB

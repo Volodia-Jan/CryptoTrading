@@ -1,0 +1,49 @@
+version: '3.4'
+
+services:
+  database:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      - SA_PASSWORD=SuperStrongP@$$w0rd
+      - ACCEPT_EULA=Y
+    ports:
+      - "5434:1433"
+    networks:
+      - trade-network
+
+  tradeapp:
+    build:
+      context: CryptoTraiding.OrderManagement
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"
+    depends_on:
+      - database
+    networks:
+      - trade-network
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=database;Database=trading_management;User Id=sa;Password=SuperStrongP@$$w0rd;Persist Security Info=False;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=True;Connection Timeout=30;
+      - JWT__Issuer=MyLocalIssuer
+      - JWT__Audience=MyLocalAudience
+      - JWT__Key=SvDzeK/jnrne2cqpRW0Gzq7ImDfZ2+yEG40ZW9IsW/4SGfKmKgKRXpf608gLYX6+
+      - JWT__ExpirationTimeInMinutes=60
+
+  userapp:
+    build:
+      context: CryptoTraiding.AccountManagment
+      dockerfile: Dockerfile
+    ports:
+      - "8081:80"
+    depends_on:
+      - database
+    networks:
+      - trade-network
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=database;Database=account_management;User Id=sa;Password=SuperStrongP@$$w0rd;Persist Security Info=False;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=True;Connection Timeout=30;
+      - JWT__Issuer=MyLocalIssuer
+      - JWT__Audience=MyLocalAudience
+      - JWT__Key=SvDzeK/jnrne2cqpRW0Gzq7ImDfZ2+yEG40ZW9IsW/4SGfKmKgKRXpf608gLYX6+
+      - JWT__ExpirationTimeInMinutes=60
+
+networks:
+  trade-network:

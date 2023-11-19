@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoTraiding.AccountManagment.API", "CryptoTraiding.AccountManagment.API\CryptoTraiding.AccountManagment.API.csproj", "{8D2CFC4E-390B-4F29-8986-AD1B75B1D1C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountManagement.Infrastructure", "AccountManagement.Infrastructure\AccountManagement.Infrastructure.csproj", "{B8AE7AF1-D281-44D1-8438-D42572FA6A28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountManagement.Domain", "AccountManagement.Domain\AccountManagement.Domain.csproj", "{BC136FBC-B12B-49E3-8052-6B5A2F9E2107}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A41283F8-A82C-4341-B293-93064D238ADB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D9C40C30-17D1-42C7-8E21-02642BEBCA2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D2CFC4E-390B-4F29-8986-AD1B75B1D1C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2CFC4E-390B-4F29-8986-AD1B75B1D1C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2CFC4E-390B-4F29-8986-AD1B75B1D1C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2CFC4E-390B-4F29-8986-AD1B75B1D1C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8AE7AF1-D281-44D1-8438-D42572FA6A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8AE7AF1-D281-44D1-8438-D42572FA6A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8AE7AF1-D281-44D1-8438-D42572FA6A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8AE7AF1-D281-44D1-8438-D42572FA6A28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC136FBC-B12B-49E3-8052-6B5A2F9E2107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC136FBC-B12B-49E3-8052-6B5A2F9E2107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC136FBC-B12B-49E3-8052-6B5A2F9E2107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC136FBC-B12B-49E3-8052-6B5A2F9E2107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BC136FBC-B12B-49E3-8052-6B5A2F9E2107} = {A41283F8-A82C-4341-B293-93064D238ADB}
+		{B8AE7AF1-D281-44D1-8438-D42572FA6A28} = {A41283F8-A82C-4341-B293-93064D238ADB}
+		{8D2CFC4E-390B-4F29-8986-AD1B75B1D1C9} = {A41283F8-A82C-4341-B293-93064D238ADB}
+	EndGlobalSection
+EndGlobal

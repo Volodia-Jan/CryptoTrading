@@ -1,0 +1,15 @@
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.OrderManagement\OrderManagement.Domain\bin\Debug\net7.0\OrderManagement.Domain.deps.json
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.OrderManagement\OrderManagement.Domain\bin\Debug\net7.0\OrderManagement.Domain.dll
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.OrderManagement\OrderManagement.Domain\bin\Debug\net7.0\OrderManagement.Domain.pdb
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.OrderManagement\OrderManagement.Domain\bin\Debug\net7.0\OrderManagement.Infrastructure.dll
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.OrderManagement\OrderManagement.Domain\bin\Debug\net7.0\OrderManagement.Infrastructure.pdb
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.OrderManagement\OrderManagement.Domain\obj\Debug\net7.0\OrderManagement.Domain.csproj.AssemblyReference.cache
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.OrderManagement\OrderManagement.Domain\obj\Debug\net7.0\OrderManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.OrderManagement\OrderManagement.Domain\obj\Debug\net7.0\OrderManagement.Domain.AssemblyInfoInputs.cache
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.OrderManagement\OrderManagement.Domain\obj\Debug\net7.0\OrderManagement.Domain.AssemblyInfo.cs
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.OrderManagement\OrderManagement.Domain\obj\Debug\net7.0\OrderManagement.Domain.csproj.CoreCompileInputs.cache
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.OrderManagement\OrderManagement.Domain\obj\Debug\net7.0\OrderManagement.Domain.csproj.CopyComplete
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.OrderManagement\OrderManagement.Domain\obj\Debug\net7.0\OrderManagement.Domain.dll
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.OrderManagement\OrderManagement.Domain\obj\Debug\net7.0\refint\OrderManagement.Domain.dll
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.OrderManagement\OrderManagement.Domain\obj\Debug\net7.0\OrderManagement.Domain.pdb
+D:\TestAssignemnt\CryptoTrading\CryptoTraiding.OrderManagement\OrderManagement.Domain\obj\Debug\net7.0\ref\OrderManagement.Domain.dll

@@ -1,0 +1,32 @@
+[
+  {
+    "CryptoId": "fea7ae61-41c9-44f2-9670-be88907dd763",
+    "CryptoName": "Bitcoin",
+    "SymbolCode": "BTC",
+    "Price": 50000.00
+  },
+  {
+    "CryptoId": "714a914b-d65b-4fd1-93a2-a5d398e34412",
+    "CryptoName": "Ethereum",
+    "SymbolCode": "ETH",
+    "Price": 3000.00
+  },
+  {
+    "CryptoId": "1bfad1ab-8738-40d2-b6ba-91179a3a5d75",
+    "CryptoName": "Ripple",
+    "SymbolCode": "XRP",
+    "Price": 1.50
+  },
+  {
+    "CryptoId": "58eb38bc-b6da-44ea-9ae1-d8b5d286da8f",
+    "CryptoName": "Litecoin",
+    "SymbolCode": "LTC",
+    "Price": 150.00
+  },
+  {
+    "CryptoId": "c5489d67-b99b-4618-ad5d-5c5b44efdc68",
+    "CryptoName": "Cardano",
+    "SymbolCode": "ADA",
+    "Price": 2.20
+  }
+]

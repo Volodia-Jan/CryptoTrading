@@ -1,0 +1,37 @@
+[
+  {
+    "WalletId": "3b16021a-88d5-449d-a74a-4bd2ca211fac",
+    "AccountId": "c3e4b62b-3fd3-4d3f-a8e5-5e5c5d4c3b2a",
+    "CryptoId": "fea7ae61-41c9-44f2-9670-be88907dd763",
+    "CreationDate": "2023-02-01T09:00:00",
+    "Amount": 50.00
+  },
+  {
+    "WalletId": "e946a7a5-d2cc-45fa-b4c4-6288a3b90f37",
+    "AccountId": "d5e6f7a8-9b0c-4d5e-6f7a-8b9c0d1e2f3a",
+    "CryptoId": "714a914b-d65b-4fd1-93a2-a5d398e34412",
+    "CreationDate": "2023-02-02T11:30:00",
+    "Amount": 25.25
+  },
+  {
+    "WalletId": "76fe9741-5ee1-4230-83bb-7e97fd708a07",
+    "AccountId": "a1b2c3d4-e5f6-4a5b-9c8d-7e6f5a4b3c2d",
+    "CryptoId": "1bfad1ab-8738-40d2-b6ba-91179a3a5d75",
+    "CreationDate": "2023-02-03T14:15:00",
+    "Amount": 100.50
+  },
+  {
+    "WalletId": "1d9cb663-784d-4e33-a5ae-87cc91346243",
+    "AccountId": "b2c3d4e5-f6a7-5b6c-8d9e-0f1a2b3c4d5e",
+    "CryptoId": "58eb38bc-b6da-44ea-9ae1-d8b5d286da8f",
+    "CreationDate": "2023-02-04T08:45:00",
+    "Amount": 37.75
+  },
+  {
+    "WalletId": "71b375fe-4c15-44ee-abe2-7b73589e1dda",
+    "AccountId": "e5f6a7b8-c9d0-4e5f-6a7b-8c9d0e1f2a3b",
+    "CryptoId": "c5489d67-b99b-4618-ad5d-5c5b44efdc68",
+    "CreationDate": "2023-02-05T12:30:00",
+    "Amount": 75.00
+  }
+]

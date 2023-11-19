@@ -1,0 +1,102 @@
+[
+  {
+    "TradeId": "642434b1-077d-49cd-8437-df0ce5fee7ce",
+    "AccountId": "c3e4b62b-3fd3-4d3f-a8e5-5e5c5d4c3b2a",
+    "WalletId": "3b16021a-88d5-449d-a74a-4bd2ca211fac",
+    "TradeType": "Buy",
+    "TradeStatus": "Open",
+    "Amount": 10.00,
+    "Price": 500000.00,
+    "TradeDateTime": "2023-03-01T10:30:00"
+  },
+  {
+    "TradeId": "f2a8fa26-7511-4aeb-b411-4dea829af415",
+    "AccountId": "d5e6f7a8-9b0c-4d5e-6f7a-8b9c0d1e2f3a",
+    "WalletId": "e946a7a5-d2cc-45fa-b4c4-6288a3b90f37",
+    "TradeType": "Sell",
+    "TradeStatus": "Open",
+    "Amount": 15.75,
+    "Price": 47250.00,
+    "TradeDateTime": "2023-03-02T14:45:00"
+  },
+  {
+    "TradeId": "340b8434-97ce-4ba8-97c5-59012004f8f9",
+    "AccountId": "a1b2c3d4-e5f6-4a5b-9c8d-7e6f5a4b3c2d",
+    "WalletId": "76fe9741-5ee1-4230-83bb-7e97fd708a07",
+    "TradeType": "Buy",
+    "TradeStatus": "Open",
+    "Amount": 20.50,
+    "Price": 22,
+    "TradeDateTime": "2023-03-03T09:15:00"
+  },
+  {
+    "TradeId": "122feb9d-6f0f-4302-a91d-f376958f771c",
+    "AccountId": "b2c3d4e5-f6a7-5b6c-8d9e-0f1a2b3c4d5e",
+    "WalletId": "1d9cb663-784d-4e33-a5ae-87cc91346243",
+    "TradeType": "Sell",
+    "TradeStatus": "Open",
+    "Amount": 8.25,
+    "Price": 1237.5,
+    "TradeDateTime": "2023-03-04T11:00:00"
+  },
+  {
+    "TradeId": "75fd11c1-5e99-458d-8fea-60893ce0815c",
+    "AccountId": "e5f6a7b8-c9d0-4e5f-6a7b-8c9d0e1f2a3b",
+    "WalletId": "71b375fe-4c15-44ee-abe2-7b73589e1dda",
+    "TradeType": "Buy",
+    "TradeStatus": "Open",
+    "Amount": 12.50,
+    "Price": 27.5,
+    "TradeDateTime": "2023-03-05T13:45:00"
+  },
+  {
+    "TradeId": "0f22b30a-f618-40f3-ad07-1e8141d250bb",
+    "AccountId": "c3e4b62b-3fd3-4d3f-a8e5-5e5c5d4c3b2a",
+    "WalletId": "3b16021a-88d5-449d-a74a-4bd2ca211fac",
+    "TradeType": "Sell",
+    "TradeStatus": "Closed",
+    "Amount": 5.00,
+    "Price": 250000.00,
+    "TradeDateTime": "2023-03-06T15:30:00"
+  },
+  {
+    "TradeId": "ab24b595-e3fb-4fe0-8636-5363bc082b08",
+    "AccountId": "d5e6f7a8-9b0c-4d5e-6f7a-8b9c0d1e2f3a",
+    "WalletId": "e946a7a5-d2cc-45fa-b4c4-6288a3b90f37",
+    "TradeType": "Buy",
+    "TradeStatus": "Closed",
+    "Amount": 7.75,
+    "Price": 23250.00,
+    "TradeDateTime": "2023-03-07T09:45:00"
+  },
+  {
+    "TradeId": "32526a6b-3068-4724-8484-14d4401b6c75",
+    "AccountId": "a1b2c3d4-e5f6-4a5b-9c8d-7e6f5a4b3c2d",
+    "WalletId": "76fe9741-5ee1-4230-83bb-7e97fd708a07",
+    "TradeType": "Sell",
+    "TradeStatus": "Closed",
+    "Amount": 15.00,
+    "Price": 22.5,
+    "TradeDateTime": "2023-03-08T12:00:00"
+  },
+  {
+    "TradeId": "e63a740b-6168-4754-b3cb-daa5b42bcd48",
+    "AccountId": "b2c3d4e5-f6a7-5b6c-8d9e-0f1a2b3c4d5e",
+    "WalletId": "1d9cb663-784d-4e33-a5ae-87cc91346243",
+    "TradeType": "Buy",
+    "TradeStatus": "Closed",
+    "Amount": 10.75,
+    "Price": 1612.5,
+    "TradeDateTime": "2023-03-09T14:15:00"
+  },
+  {
+    "TradeId": "2b0634e8-2232-4028-a70a-51082b989073",
+    "AccountId": "e5f6a7b8-c9d0-4e5f-6a7b-8c9d0e1f2a3b",
+    "WalletId": "71b375fe-4c15-44ee-abe2-7b73589e1dda",
+    "TradeType": "Sell",
+    "TradeStatus": "Closed",
+    "Amount": 18.00,
+    "Price": 39.6,
+    "TradeDateTime": "2023-03-10T08:30:00"
+  }
+]
